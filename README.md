@@ -2,8 +2,6 @@
 
 [简体中文](README.zh-CN.md)
 
-Chinese release name: **Solenne — 档案精灵**
-
 Solenne is a custom animated Codex pet: a calm celestial scholar, archivist, and observer who quietly reads and works beside you.
 
 ![Solenne overview](previews/solenne-overview.png)

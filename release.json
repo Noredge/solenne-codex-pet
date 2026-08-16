@@ -1,0 +1,21 @@
+{
+  "name": "Solenne — Archive Familiar",
+  "localizedNames": {
+    "en": "Solenne — Archive Familiar",
+    "zh-CN": "Solenne — 档案精灵"
+  },
+  "release": "1.0.0",
+  "releaseDate": "2026-08-15",
+  "petId": "solenne",
+  "spriteVersionNumber": 2,
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208
+  },
+  "license": "Solenne Personal-Use License 1.0",
+  "installSource": "pet/solenne"
+}
